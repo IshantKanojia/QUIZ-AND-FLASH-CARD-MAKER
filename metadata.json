@@ -1,0 +1,5 @@
+{
+  "name": "Smart Study Extractor",
+  "description": "An AI-powered application that transforms PDF documents into interactive study materials like flashcards, mind maps, and quizzes to enhance learning and revision.",
+  "requestFramePermissions": []
+}
